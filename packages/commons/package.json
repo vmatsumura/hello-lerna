@@ -1,0 +1,9 @@
+{
+    "name": "@hello-lerna/commons",
+    "version": "1.0.1",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "test": "echo Testing COMMONS with version: $npm_package_version"
+    }
+}
