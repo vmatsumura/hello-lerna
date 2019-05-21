@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.3](https://github.com/vmatsumura/hello-lerna/compare/v1.1.2...v1.1.3) (2019-05-21)
+
+
+### Bug Fixes
+
+* **commons:** Adding lib into console.log ([5d085c3](https://github.com/vmatsumura/hello-lerna/commit/5d085c3))
+
+
+
+
+
 ## [1.1.2](https://github.com/vmatsumura/hello-lerna/compare/v1.1.1...v1.1.2) (2019-05-21)
 
 
