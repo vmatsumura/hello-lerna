@@ -1,3 +1,3 @@
 module.exports = () => {
-    console.log('Hello from commons lib');
+    console.log('Hello from commons');
 };
