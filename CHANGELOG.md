@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.6](https://github.com/vmatsumura/hello-lerna/compare/v1.1.5...v1.1.6) (2019-05-21)
+
+
+### Bug Fixes
+
+* **server:** use latest version of commons ([64a4b57](https://github.com/vmatsumura/hello-lerna/commit/64a4b57))
+
+
+
+
+
 ## [1.1.5](https://github.com/vmatsumura/hello-lerna/compare/v1.1.4...v1.1.5) (2019-05-21)
 
 
