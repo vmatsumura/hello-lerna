@@ -1,3 +1,3 @@
 module.exports = () => {
-    console.log('Hello from commons', 'XABLAU');
+    console.log('Hello from commons');
 };
