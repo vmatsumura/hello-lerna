@@ -8,5 +8,8 @@
     },
     "scripts": {
         "test": "echo Testing SERVER with version: $npm_package_version"
+    },
+    "devDependencies": {
+        "react": "^16.8.6"
     }
 }
