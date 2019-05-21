@@ -1,0 +1,11 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# [1.1.0](https://github.com/vmatsumura/hello-lerna/compare/v1.0.4...v1.1.0) (2019-05-21)
+
+
+### Features
+
+* **appCredit:** Adding new module ([d8a3ff4](https://github.com/vmatsumura/hello-lerna/commit/d8a3ff4))
