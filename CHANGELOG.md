@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.4](https://github.com/vmatsumura/hello-lerna/compare/v1.1.3...v1.1.4) (2019-05-21)
+
+
+### Bug Fixes
+
+* **server:** changing commons version ([4e122ec](https://github.com/vmatsumura/hello-lerna/commit/4e122ec))
+* **server:** rollback version of commons ([529af98](https://github.com/vmatsumura/hello-lerna/commit/529af98))
+
+
+
+
+
 ## [1.1.3](https://github.com/vmatsumura/hello-lerna/compare/v1.1.2...v1.1.3) (2019-05-21)
 
 
